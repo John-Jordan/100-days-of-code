@@ -11,4 +11,12 @@ I did more networking today, mainly on LinkedIn but it was good to reach out to 
 
 
 ### R1D66
+I had fun building a rock, paper, scissors game with #python today. Was able to incorporate several different items in my code that I haven’t done before. Let’s do it again tomorrow!
+
 ### R1D67
+### R1D68
+### R1D69
+### R1D70
+### R1D71
+### R1D72
+### R1D73
