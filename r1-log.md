@@ -14,6 +14,8 @@ I did more networking today, mainly on LinkedIn but it was good to reach out to 
 I had fun building a rock, paper, scissors game with #python today. Was able to incorporate several different items in my code that I haven’t done before. Let’s do it again tomorrow!
 
 ### R1D67
+Today I learned to not overthink and waste time on what kind of project to build but rather pick something fun but challenging and get to it.  I began a hangman game with grandeos design but dialed it down and made good progress
+
 ### R1D68
 ### R1D69
 ### R1D70
