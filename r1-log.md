@@ -20,6 +20,8 @@ Today I learned to not overthink and waste time on what kind of project to build
 I worked on my hangman game a little more today.  Got a few things added to it, hit a snag that I'll have to work out tomorrow.  Listened to a good stream by Berenice Dethier on her road to becoming a data scientist. 
 
 ### R1D69
+I got a good bit of work done on the hangman project today.  Needed a little help getting the blanks to switch to guessed letters but I learned from it. I will add a few finishing touches tomorrow and call it good.
+
 ### R1D70
 ### R1D71
 ### R1D72
