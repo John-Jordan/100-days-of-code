@@ -23,6 +23,10 @@ I worked on my hangman game a little more today.  Got a few things added to it, 
 I got a good bit of work done on the hangman project today.  Needed a little help getting the blanks to switch to guessed letters but I learned from it. I will add a few finishing touches tomorrow and call it good.
 
 ### R1D70
+So I knuckled down and completed the #python hangman app (GitHub link in Twitter bio). Learned my logic and code organization needs more work but that’s what I’m doing. Next project will play with an api. Coming soon.
+
 ### R1D71
+Coded a little app to do searches on the Project Gutenberg list of books using an api from http://gutendex.com.  This one went a lot smoother than the last api call i performed.  That's how it's supposed to go right?
+
 ### R1D72
 ### R1D73
