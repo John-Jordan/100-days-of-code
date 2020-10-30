@@ -29,4 +29,17 @@ So I knuckled down and completed the #python hangman app (GitHub link in Twitter
 Coded a little app to do searches on the Project Gutenberg list of books using an api from http://gutendex.com.  This one went a lot smoother than the last api call i performed.  That's how it's supposed to go right?
 
 ### R1D72
+I coded a small program to pick a random name from a list for a giveaway prize my wife requested. Then I finished off a section on #python classes from a tutorial I had started a little while ago. Tomorrow, I’ll learn about Tkinter.
 ### R1D73
+### R1D73
+### R1D74
+### R1D75
+### R1D76
+### R1D77
+### R1D78
+### R1D79
+### R1D80
+### R1D81
+### R1D82
+
+
