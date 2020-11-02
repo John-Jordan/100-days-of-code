@@ -30,9 +30,13 @@ Coded a little app to do searches on the Project Gutenberg list of books using a
 
 ### R1D72
 I coded a small program to pick a random name from a list for a giveaway prize my wife requested. Then I finished off a section on #python classes from a tutorial I had started a little while ago. Tomorrow, I’ll learn about Tkinter.
+
 ### R1D73
-### R1D73
+Began learning about tkinter today from a tutorial on http://Lynda.com. Initial thoughts are it looks like a fun and straightforward way to attach a GUI to my #python apps. Looking forward to building with it. 
+
 ### R1D74
+Had a full day yesterday but did review the #djangogirls tutorial and go through the setup and first parts. Setting up the environment was much easier than last time, understanding django.....still a struggle for me.
+
 ### R1D75
 ### R1D76
 ### R1D77
