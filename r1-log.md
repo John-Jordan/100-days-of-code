@@ -38,6 +38,8 @@ Began learning about tkinter today from a tutorial on http://Lynda.com. Initial 
 Had a full day yesterday but did review the #djangogirls tutorial and go through the setup and first parts. Setting up the environment was much easier than last time, understanding django.....still a struggle for me.
 
 ### R1D75
+Today didn't go as planned. I only worked on my #tkinter learning a little bit because of technical difficulties which was frustrating.  I did get to meet a couple guys who helped me problem solve the issue so that was a silver lining. 
+
 ### R1D76
 ### R1D77
 ### R1D78
