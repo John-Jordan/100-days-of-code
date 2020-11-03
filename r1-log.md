@@ -41,6 +41,8 @@ Had a full day yesterday but did review the #djangogirls tutorial and go through
 Today didn't go as planned. I only worked on my #tkinter learning a little bit because of technical difficulties which was frustrating.  I did get to meet a couple guys who helped me problem solve the issue so that was a silver lining. 
 
 ### R1D76
+Learned about organizing frames and windows with #tkinter. Anxious to get to the part where I mix my python code with this versatile GUI. 'Patience Iago, Patience'.
+
 ### R1D77
 ### R1D78
 ### R1D79
