@@ -45,6 +45,8 @@ Learned about organizing frames and windows with #tkinter. Anxious to get to the
 
 ### R1D77
 ### R1D78
+So I've been watching a tutorial on using tkinter which i finished today. I'm now trying to go back and make a GUI for one of the #python projects I had made, a random name selector. See how far I get tomorrow.
+
 ### R1D79
 ### R1D80
 ### R1D81
