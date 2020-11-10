@@ -51,6 +51,8 @@ So I've been watching a tutorial on using tkinter which i finished today. I'm no
 Started building the GUI with Tkinter for my random name drawing #python program.  Didn't get as far as I'd hoped but took a side track to learning some Git commands and procedures I'll need for......forever. 
 
 ### R1D80
+I managed to complete the GUI shell with text fields, labels, and a button.  Still working on completing the command logic to finish my first draft of this project. Should finish it up tomorrow.  
+
 ### R1D81
 ### R1D82
 
