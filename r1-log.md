@@ -57,6 +57,8 @@ I managed to complete the GUI shell with text fields, labels, and a button.  Sti
 Finished my working first draft of my #tkinter #python app.  Needs more design work but it works. You can check out the code on my github (see profile for link). It allows names to be entered and a pop up declaring a random winner.
 
 ### R1D82
+Got some help to fix an error in my tkinter app code.  Then started a new python udemy course.  I think its going to be pretty helpful. I'll share some of the apps I build as I go. 
+
 ### R1D83
 ### R1D84
 ### R1D85
