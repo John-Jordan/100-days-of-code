@@ -54,6 +54,15 @@ Started building the GUI with Tkinter for my random name drawing #python program
 I managed to complete the GUI shell with text fields, labels, and a button.  Still working on completing the command logic to finish my first draft of this project. Should finish it up tomorrow.  
 
 ### R1D81
+Finished my working first draft of my #tkinter #python app.  Needs more design work but it works. You can check out the code on my github (see profile for link). It allows names to be entered and a pop up declaring a random winner.
+
 ### R1D82
+### R1D83
+### R1D84
+### R1D85
+### R1D86
+### R1D87
+### R1D88
+### R1D89
 
 
