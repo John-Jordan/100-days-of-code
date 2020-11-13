@@ -60,6 +60,8 @@ Finished my working first draft of my #tkinter #python app.  Needs more design w
 Got some help to fix an error in my tkinter app code.  Then started a new python udemy course.  I think its going to be pretty helpful. I'll share some of the apps I build as I go. 
 
 ### R1D83
+At the risk of sounding like I'm slipping into tutorial hell I have begun a python Udemy course.  I went ahead and started at the beginning and I'm actually learning some beginner stuff I missed along the way. At 1.75 speed :)
+
 ### R1D84
 ### R1D85
 ### R1D86
